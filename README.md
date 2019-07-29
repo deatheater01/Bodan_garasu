@@ -23,3 +23,24 @@ On January 2, 2018, the government had notified the Electoral Bond Scheme. It wa
 We provide each donor with unique tokens when they perform their KYC and we make sure that the tokens contain no PII so that it can't be linked back to them. The original identities of the donor shall only be known to the authorized personnel. The bond information will be entered in our blockchain ledger(private network). It can be viewed by the general public to provide transparency. The political parties expenditure and also the amount of bonds sold will also be entered and finally the numbers will be tallied to check for fraud. The unique tokens provided to donors will help us identify any influx of black money as the blockchain network will be available to all state Bank of India branches that sells the electoral bonds.
 
 With the help of this project let us all take a step towards an honest and transparent democratic elections.
+
+
+
+
+# What is Bodan Garasu
+Bodan Garasu means Bullterproof Glass. We kept such a name to emphasize how much our product stresses on transperency and integrity.
+
+
+# The Team
+
+Tarun Aravind R
+tarunaravind2000@gmail.com
+GitHub: deatheater01
+
+Pitchappan P RM
+pitchappanprm@gmail.com
+GitHub: Pitch2342
+
+Abishek S
+abishej4@gmail.com
+GitHub: boo54321
