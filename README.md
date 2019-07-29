@@ -33,14 +33,14 @@ Bodan Garasu means Bullterproof Glass. We kept such a name to emphasize how much
 
 # The Team
 
-Tarun Aravind R
-tarunaravind2000@gmail.com
+Tarun Aravind R - 
+tarunaravind2000@gmail.com - 
 GitHub: deatheater01
 
-Pitchappan P RM
-pitchappanprm@gmail.com
+Pitchappan P RM - 
+pitchappanprm@gmail.com - 
 GitHub: Pitch2342
 
-Abishek S
-abishej4@gmail.com
+Abishek S - 
+abishej4@gmail.com - 
 GitHub: boo54321
