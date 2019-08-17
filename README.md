@@ -7,6 +7,8 @@ such as this that results in deciding the government is susceptible to 51% attac
 
 Our idea provides integrity and transparency to other major aspects of our election.
 
+The transparent spending idea has been implemented in the "fundManager" directory.
+
 We have implemnted two ideas,
 
 # CUTTING DOWN BOGUS VOTES
