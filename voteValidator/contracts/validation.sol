@@ -30,5 +30,11 @@ contract validation {
         emit voteUpdate(voteCount);
     }
     
+    function counting() public returns (uint) {
+        if (msg.sender != chairperson) {
+            "sender not authorized";}
+        "number of voters are...";
+        return voteCount;
+    }
     
 }
