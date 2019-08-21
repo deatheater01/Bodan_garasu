@@ -11,7 +11,7 @@ module.exports = {
       network_id: "*",
       gas: 0,
       gasPrice: 0,
-      provider: new HDWalletProvider(fs.readFileSync('/home/darwin0101/Desktop/fundManager/myblockchain.env', 'utf-8'), "https://tarun01013h2747block.blockchain.azure.com:3200/PI9uI6d_jUcea13uQuPpzB6u"),
+      provider: new HDWalletProvider(fs.readFileSync('/home/darwin0101/Desktop/voteValidator/myblockchain.env', 'utf-8'), "https://tarun01013h2747block.blockchain.azure.com:3200/PI9uI6d_jUcea13uQuPpzB6u"),
       consortium_id: 1566233856113
     }
   }
