@@ -43,16 +43,16 @@ contract fund_manager {
     }
     
     
-    function deposit(uint depositAmt) public payable returns (uint) {
-        balances[msg.sender] += depositAmt;
+    function deposit() public payable returns (uint) {
+        balances[msg.sender] += msg.value;
         emit LogDepositMade(msg.sender, msg.value);
         return balances[msg.sender];
     }
     
-    function withdraw(uint withdrawAmt) public payable returns (uint) {
+    function withdraw() public payable returns (uint) {
         if(withdrawAmt <= balances[msg.sender]) {
-            balances[msg.sender] -= withdrawAmt;
-            emit LogWithdrawalPerformed(msg.sender, withdrawAmt);
+            balances[msg.sender] -= msg.value;
+            emit LogWithdrawalPerformed(msg.sender, msg.value);
         }
         return balances[msg.sender];
     }
