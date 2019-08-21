@@ -21,7 +21,7 @@ contract validation {
         chairperson = msg.sender;
         voteCount ++;
     }
-    
+    //counts votes and makes sure no voter has voted twice better validation technique will be implemented in the future
     function voting()  public {
         voter storage sender = voters[msg.sender];
         if(sender.voted) return;
