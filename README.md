@@ -29,20 +29,4 @@ With the help of this project let us all take a step towards an honest and trans
 
 
 
-# What is Bodan Garasu
-Bodan Garasu means Bullterproof Glass. We kept such a name to emphasize how much our product stresses on transperency and integrity.
 
-
-# The Team
-
-Tarun Aravind R - 
-tarunaravind2000@gmail.com - 
-GitHub: deatheater01
-
-Pitchappan P RM - 
-pitchappanprm@gmail.com - 
-GitHub: Pitch2342
-
-Abishek S - 
-abishej4@gmail.com - 
-GitHub: boo54321
