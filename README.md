@@ -28,7 +28,7 @@ With the help of this project let us all take a step towards an honest and trans
 
 
 
-# This repo has only the smart contract, the js necessaey for the app will be added
+# This repo has only the smart contract, the js necessary for the app will be added
 
 
 
